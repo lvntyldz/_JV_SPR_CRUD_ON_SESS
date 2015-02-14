@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_JV_SPR_CRUD_ON_SESS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="_JV_SPR_CRUD_ON_SESS.war">
+      <element id="artifact" artifact-name="_JV_SPR_CRUD_ON_SESS:war exploded" />
+    </root>
+  </artifact>
+</component>
